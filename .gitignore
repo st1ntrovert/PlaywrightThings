@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Яйца и дистрибутив
+*.egg-info/
+dist/
+build/
+
+# PyCharm
+.idea/
+
+# Секреты
+.env
+.env.local
+*.env
